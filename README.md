@@ -17,9 +17,9 @@ run `yarn test` to test the app
 
 #### CX
 
-White-labeling - via AntD THEME provider
-Usage Tracking - [Matomo](https://www.npmjs.com/package/@datapunt/matomo-tracker-react)
-Error Logger - [RollBar](https://docs.rollbar.com/docs/react)
+- White-labeling - via AntD THEME provider
+- Usage Tracking - [Matomo](https://www.npmjs.com/package/@datapunt/matomo-tracker-react)
+- Error Logger - [RollBar](https://docs.rollbar.com/docs/react)
 
 # Task to be completed
 
