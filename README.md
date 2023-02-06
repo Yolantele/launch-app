@@ -31,10 +31,10 @@ We would like:
 
 Your solution should cover the following tasks:
 
-[x] - Make API request(s) on page load
-[x] - Display `top 10` data items
-[x] - Provide some test coverage for your project (samples available: view, component and hook testing)
-[x] - The data that we would like you to display is:
+- [x] - Make API request(s) on page load
+- [x] - Display `top 10` data items
+- [x] - Provide some test coverage for your project (samples available: view, component and hook testing)
+- [x] - The data that we would like you to display is:
 
 - `name`
 - `date_utc`
