@@ -7,13 +7,13 @@ run `yarn test` to test the app
 
 ### Features:
 
-Design system - [AntD](https://ant.design/docs/react/introduce)
-Module Bundler - [Vite](https://vitejs.dev/guide/)
-Testing - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) and [Vitests](https://vitest.dev/config/)
-Global State management - [Global Hook](https://www.npmjs.com/package/use-global-hook)
-Content Security Policy [here](https://www.npmjs.com/package/react-csp)
-Date parsing - [Day.js](https://day.js.org/)
-Number parsing - [Numeral.js](http://numeraljs.com/)
+- Design system - [AntD](https://ant.design/docs/react/introduce)
+- Module Bundler - [Vite](https://vitejs.dev/guide/)
+- Testing - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) and [Vitests](https://vitest.dev/config/)
+- Global State management - [Global Hook](https://www.npmjs.com/package/use-global-hook)
+- Content Security Policy [here](https://www.npmjs.com/package/react-csp)
+- Date parsing - [Day.js](https://day.js.org/)
+- Number parsing - [Numeral.js](http://numeraljs.com/)
 
 #### CX
 
